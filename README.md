@@ -18,15 +18,15 @@ A curated list of awesome fellowships, bootcamps, grants, hackathons, project id
 * https://ackeeblockchain.com/school-of-solana - AckeeBlockchain's school of solana **(Free)**
 * https://www.chainshot.com/bootcamp - Solidity bootcamp **(Free, as of 10/2022)**
 
+## Project ideas for builders
+* https://alliancedao.notion.site/Crypto-Web3-Startup-Ideas-48d40ccadeeb42a48056659fcce109b1 - Web3 startup ideas
+* https://superfluidhq.notion.site/Superfluid-Wave-Project-Ideas-7e8c792758004bd2ae452d1f9810cc58 - Ideas for projects to build with Superfluid
+* https://ideas.lens.xyz/ - Lens Protocol ideas
+
 ## Hackathons
 
 * https://devpost.com/
 * https://devfolio.co/
-
-## Project ideas
-* https://alliancedao.notion.site/Crypto-Web3-Startup-Ideas-48d40ccadeeb42a48056659fcce109b1 - Web3 startup ideas
-* https://superfluidhq.notion.site/Superfluid-Wave-Project-Ideas-7e8c792758004bd2ae452d1f9810cc58 - Ideas for projects to build with Superfluid
-* https://ideas.lens.xyz/ - Lens Protocol ideas
 
 ## Popular job boards
 
