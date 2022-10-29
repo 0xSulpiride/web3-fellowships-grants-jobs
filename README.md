@@ -19,8 +19,8 @@ A curated list of awesome fellowships, bootcamps, grants, hackathons, project id
 * https://www.chainshot.com/bootcamp - Solidity bootcamp **(Free, as of 10/2022)**
 
 ## Project ideas for builders
-* https://alliancedao.notion.site/Crypto-Web3-Startup-Ideas-48d40ccadeeb42a48056659fcce109b1 - Web3 startup ideas
-* https://superfluidhq.notion.site/Superfluid-Wave-Project-Ideas-7e8c792758004bd2ae452d1f9810cc58 - Ideas for projects to build with Superfluid
+* [Web3 startup ideas by AllianceDAO](https://alliancedao.notion.site/Crypto-Web3-Startup-Ideas-48d40ccadeeb42a48056659fcce109b1)
+* [Ideas for projects to build with Superfluid](https://superfluidhq.notion.site/Superfluid-Wave-Project-Ideas-7e8c792758004bd2ae452d1f9810cc58)
 * https://ideas.lens.xyz/ - Lens Protocol ideas
 
 ## Hackathons
