@@ -1,6 +1,8 @@
+A curated list of awesome fellowships, bootcamps, grants, hackathons, project ideas and jobs in the web3 space that might be helpful if you've been looking to do a career switch or didn't know where to start learning and building anything web3 related
+
 ## Fellowships and Bootcamps (with or without jobs guarantees)
 
-#### With a job guarantee (not a 100% guarantee of course)
+#### With a job guarantee
 * https://metana.io/ - Learn Solidity and Solana in 4 months and get hired **($6,000 / Pay-After-Get-Hired plan for US-based students only)**
 * https://0xmacro.com/engineering-fellowship - Become a Security-Informed Solidity Engineer **(5,000 USDC)**
 * https://www.encode.club/encode-bootcamps - A lot of bootcamps on many different subjects like Solidity, ZK, Solana **(Free but some courses require $250 deposit which is returned upon having completed the course)**
