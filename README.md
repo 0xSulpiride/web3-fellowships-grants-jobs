@@ -17,6 +17,7 @@ A curated list of awesome fellowships, bootcamps, grants, hackathons, project id
 * https://ackeeblockchain.com/school-of-solidity - AckeeBlockchain's school of solidity **(Free)**
 * https://ackeeblockchain.com/school-of-solana - AckeeBlockchain's school of solana **(Free)**
 * https://www.chainshot.com/bootcamp - Solidity bootcamp **(Free, as of 10/2022)**
+* https://fellowship.radius.space/ - Radius Fellowship is focused on developing smart contracts with the Filecoin Virtual Machine **($500 as of 10/2022)**
 
 ## Project ideas for builders
 * [Web3 startup ideas by AllianceDAO](https://alliancedao.notion.site/Crypto-Web3-Startup-Ideas-48d40ccadeeb42a48056659fcce109b1)
