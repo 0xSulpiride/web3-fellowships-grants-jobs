@@ -3,12 +3,13 @@ A curated list of awesome fellowships, bootcamps, grants, hackathons, project id
 ## Fellowships and Bootcamps (with or without jobs guarantees)
 
 #### With a job guarantee
+* https://rareskills.io/ - Senior Web3 Engineers Bootcamp **($8000)**. [Youtube](https://www.youtube.com/@rareskills_io)
 * https://metana.io/ - Learn Solidity and Solana in 4 months and get hired **($6,000 / Pay-After-Get-Hired plan for US-based students only)**
 * https://0xmacro.com/engineering-fellowship - Become a Security-Informed Solidity Engineer **(5,000 USDC)**
-* https://www.encode.club/encode-bootcamps - A lot of bootcamps on many different subjects like Solidity, ZK, Solana **(Free but some courses require $250 deposit which is returned upon having completed the course)**
-* https://yacademy.dev/fellowship-program/ - Fellowship for web3 auditors, not for beginners **(Free)**
 
 #### Without a job guarantee
+* https://www.encode.club/encode-bootcamps - A lot of bootcamps on many different subjects like Solidity, ZK, Solana **(Free but some courses require $250 deposit which is returned upon having completed the course)**
+* https://yacademy.dev/fellowship-program/ - Fellowship for web3 auditors, not for beginners **(Free)** [Youtube](https://www.youtube.com/@yacademyDAO)
 * https://university.alchemy.com/ - Javascript and Solidity bootcamp **(Free)**
 * https://academy.cosmos.network/ - Start your Web3 career and master **Cosmos** in seven weeks **(Free)**
 * https://www.near.university/earn/fellowship - NEAR Education Fellowship Programs **(Free)**
@@ -19,6 +20,7 @@ A curated list of awesome fellowships, bootcamps, grants, hackathons, project id
 * https://www.chainshot.com/bootcamp - Solidity bootcamp **(Free, as of 10/2022)**
 * https://fellowship.radius.space/ - Radius Fellowship is focused on developing smart contracts with the Filecoin Virtual Machine **($500 as of 10/2022)**
 * https://academy.ecdao.org/ - Learn everything about the Flow Blockchain and the Cadence Smart Contract programming language.
+* https://mixbytes.io/farm - Bootcamp for smart contract auditors **(Free)**
 
 ## Project ideas for builders
 * [Web3 startup ideas by AllianceDAO](https://alliancedao.notion.site/Crypto-Web3-Startup-Ideas-48d40ccadeeb42a48056659fcce109b1)
