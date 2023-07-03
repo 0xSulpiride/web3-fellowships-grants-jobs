@@ -21,6 +21,7 @@ A curated list of awesome fellowships, bootcamps, grants, hackathons, project id
 * https://fellowship.radius.space/ - Radius Fellowship is focused on developing smart contracts with the Filecoin Virtual Machine **($500 as of 10/2022)**
 * https://academy.ecdao.org/ - Learn everything about the Flow Blockchain and the Cadence Smart Contract programming language.
 * https://mixbytes.io/farm - Bootcamp for smart contract auditors **(Free)**
+* https://statemind.io/ - Famous auditing firm, they have a fellowship program (you have to find the form in their site) **(Free)**
 
 ## Project ideas for builders
 * [Web3 startup ideas by AllianceDAO](https://alliancedao.notion.site/Crypto-Web3-Startup-Ideas-48d40ccadeeb42a48056659fcce109b1)
