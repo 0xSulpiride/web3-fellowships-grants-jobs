@@ -45,6 +45,7 @@ A curated list of awesome fellowships, bootcamps, grants, hackathons, project id
 * https://huntd.tech
 * https://findweb3.com/jobs
 * https://web3army.co/
+* https://bestopenjobs.com/
 * https://apollojobs.xyz
 * https://www.paradigm.xyz/opportunities
 * https://bankless.pallet.com/jobs
