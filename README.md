@@ -48,3 +48,5 @@ A curated list of awesome fellowships, bootcamps, grants, hackathons, project id
 * https://apollojobs.xyz
 * https://www.paradigm.xyz/opportunities
 * https://bankless.pallet.com/jobs
+
+* [CryptoJobsHub](https://www.cryptojobshub.io) - Curated Web3, crypto, and blockchain jobs.
