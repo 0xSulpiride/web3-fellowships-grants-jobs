@@ -32,6 +32,7 @@ A curated list of awesome fellowships, bootcamps, grants, hackathons, project id
 
 * https://devpost.com/
 * https://devfolio.co/
+* https://dapp.ing/hackathons
 
 ## Popular job boards
 
